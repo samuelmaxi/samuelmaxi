@@ -1,7 +1,7 @@
 ### Olá! Sou Pinguim114
 
 
-- 🌱 Estudo JavaScript e Python
+- 🌱 Estudante de Sistemas de Informação
 - 😄 Pronouns: ele/dele
 
 <div align="center">
