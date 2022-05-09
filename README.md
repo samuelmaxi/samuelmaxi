@@ -1,8 +1,8 @@
 ### Olá! Sou Samuel Máximo
 
 
-- 🌱 Estudante de Sistemas de Informação
-- 😄 Pronouns: ele/dele
+- 🌱 Estudante de Sistemas de Informação.
+- 😄 Aprendendo Back-End por enquanto.
 
 <div align="center">
   <a href="https://github.com/Pinguim114">
@@ -10,9 +10,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinguim114&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-C" height="30" width="40" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png">
+  <img align="center" alt="Ping-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ping-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Ping-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Ping-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ping-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  
+        
 </div>
   
   ##
