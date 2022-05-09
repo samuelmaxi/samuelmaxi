@@ -12,6 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-C" height="30" width="40" src="https://img2.gratispng.com/20180324/icq/kisspng-the-c-programming-language-internet-explorer-5ab6f84e02a659.3278740715219405580109.jpg">
 </div>
   
   ##
