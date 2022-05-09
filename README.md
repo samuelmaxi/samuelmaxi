@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-C" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ul9Gy8s9JggfnFP7UtEidRLCeMOCEHdMgO-HpqJcdXKDsSt_TcZ_bFLyYiXtzav-n18&usqp=CAU">
+  <img align="center" alt="Rafa-C" height="30" width="40" src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png">
 </div>
   
   ##
