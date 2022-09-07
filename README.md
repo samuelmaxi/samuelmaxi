@@ -1,8 +1,8 @@
 ### Olá! Sou Samuel Máximo
 
 
-- 🌱 Estudante de Sistemas de Informação.
-- 😄 Aprendendo Back-End por enquanto.
+- 🌱 Estudante de Sistemas de Informação. Segundo Periodo.
+- 😄 Projetos estão por vir.
 
 <div align="center">
   <a href="https://github.com/samuelmaxi">
